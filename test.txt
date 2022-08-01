@@ -1,0 +1,6 @@
+vim learning
+"i" command->insert
+"esc" insert->command
+":" command->last line
+"q":lastline->exit
+"wq":lastline->save and exit
